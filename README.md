@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Python**
 - 💬 Ask me about **something**
 - 📫 How to reach me: **diasparvez996@gmail.com**
-- ⚡ Fun fact: **I love my drama and movie**
+- ⚡ Fun fact: **I love drama and movie**
 
 ## 🏆 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DiasCoder0&theme=onedark&column=8)
