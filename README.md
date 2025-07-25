@@ -11,20 +11,20 @@
 ---
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=diasfaizullah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diascoder0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
-![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=diasfaizullah&show_icons=true&theme=tokyonight)
+![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diascoder0&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=diasfaizullah&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Diascoder0&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasfaizullah&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diascoder0&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,4 +42,4 @@
 ---
 
 ## 📈 Activity Graph
-[![Dias's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diasfaizullah&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dias's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diascoder0&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
