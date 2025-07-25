@@ -87,12 +87,7 @@
 [![Excelyno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiasCoder0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 💰 Support Me
-<p align="left">
-  <a href="https://www.buymeacoffee.com/DiasCoder0" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DiasCoder0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
