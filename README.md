@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying at SMK Negeri 2 Jember
 - 🔭 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on AI and Robotics projects
-- 📫 How to reach me: diasexample@gmail.com
+- 📫 How to reach me: diasparvez996@gmail.com
 - ⚡ Fun fact: I love hypercars and mechatronic structures
 
 ---
